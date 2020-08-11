@@ -1,6 +1,6 @@
 
 <p>
-   <img src="IMG.PNG" alt="CL Thumb" border="0" width="100%">
+   <img src="IMG.png" alt="CL Thumb" border="0" width="100%">
 </p>
 
 <p align="center">
