@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://instagram.com/lszofficial">Instagram</a> •
-  <a href="https://www.youtube.com/channel/UCRp01kjOxdBW4JbAN5-CGHg?view_as=subscriber">Youtube</a> •
+  <a href="https://www.youtube.com/channel/UCRp01kjOxdBW4JbAN5-CGHg?view_as=subscriber">Youtube</a>
 </p>
 
 ---
