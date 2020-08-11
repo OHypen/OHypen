@@ -1,6 +1,4 @@
 
-   <img src="img.png" alt="CL Thumb" border="0" width="250%">
-
 <p align="center">
   <a href="https://instagram.com/lszofficial">Instagram</a> •
   <a href="https://www.youtube.com/channel/UCRp01kjOxdBW4JbAN5-CGHg?view_as=subscriber">Youtube</a>
