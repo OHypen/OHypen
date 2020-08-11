@@ -1,7 +1,5 @@
 
-<p>
    <img src="img.png" alt="CL Thumb" border="0" width="250%">
-</p>
 
 <p align="center">
   <a href="https://instagram.com/lszofficial">Instagram</a> •
