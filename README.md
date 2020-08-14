@@ -3,7 +3,7 @@
   <h2>Redes Sociais</h2>
   <a href="https://instagram.com/lszofficial">Instagram</a> •
   <a href="https://www.youtube.com/channel/UCRp01kjOxdBW4JbAN5-CGHg?view_as=subscriber">Youtube</a> •
-  <a href="https://twitter.com/HProgramador">Twitter</a>
+  <a href="https://twitter.com/HProgramador"><img src="Twitter.png"></a>
 </p>
 
 
@@ -17,4 +17,3 @@
 <h5>🚀 | JavaScript
 <h5>🧪 | Bootstrap</h5>
   
-  </h5> <img src="5.gif"  alt="gif legal">
