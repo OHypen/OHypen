@@ -1,8 +1,8 @@
 
 <p align="center">
   <h2>Redes Sociais</h2>
-  <a href="https://instagram.com/lszofficial"><img src="instagram.png"></a> 
-  <a href="https://www.youtube.com/channel/UCRp01kjOxdBW4JbAN5-CGHg?view_as=subscriber"><img src="youtube.png"</a> ㅤㅤㅤ
+  <a href="https://instagram.com/lszofficial"><img src="instagram.png"></a> ㅤㅤㅤ
+  <a href="https://www.youtube.com/channel/UCRp01kjOxdBW4JbAN5-CGHg?view_as=subscriber"><img src="youtube.png"</a>
   <a href="https://twitter.com/HProgramador"><img src="Twitter.png"></a>
 </p>
 
