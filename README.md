@@ -17,4 +17,4 @@
 <h5>🚀 | JavaScript
 <h5>🧪 | Bootstrap</h5>
   
-  </h5> <img src="5.gif">
+  </h5> <img src="5.gif"  alt="gif legal">
