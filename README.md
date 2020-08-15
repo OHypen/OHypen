@@ -1,7 +1,7 @@
 
 <p align="center">
   <h2>Redes Sociais</h2>
-  <a href="https://instagram.com/lszofficial"><img src="INSTAGRAM"></a> ㅤㅤㅤ
+  <a href="https://instagram.com/lszofficial">INSTAGRAM</a> ㅤㅤㅤ
   <a href="https://www.youtube.com/channel/UCRp01kjOxdBW4JbAN5-CGHg?view_as=subscriber">YOUTUBE</a> ㅤㅤㅤ
   <a href="https://twitter.com/HProgramador">TWITTER</a>
 </p>
