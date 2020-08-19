@@ -15,4 +15,3 @@
 <h5>🚀 | HTML</h5>
 <h5>🧪 | CSS</h5>
 <h5>🚀 | JavaScript
-<h5>🧪 | Bootstrap</h5>
