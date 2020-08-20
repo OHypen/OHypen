@@ -12,8 +12,6 @@
 
 <h3>Olá 👋🏻</h3>
 <h4>Meu nome é Luis sou Dev Front-END, e Trabalho com as Tecnologias sendo elas:</h4>
-<h5>🚀 | HTML</h5>
-<h5>🧪 | CSS</h5>
-<h5>🚀 | JavaScript
+<h5>🚀 | HTML</h5> <h5>🧪 | CSS</h5> <h5>🚀 | JavaScript</h5>
 
 ![](https://media.giphy.com/media/Z9WQLSrsQKH3uBbiXq/giphy.gif)
