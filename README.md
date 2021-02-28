@@ -1,13 +1,12 @@
 
 
- <img align='center' src="">
 
-<a href="https://www.instagram.com/leandrovianam/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+
+<a href="https://www.instagram.com/lszinxx/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
 
-<p style="font-size: 24px">💻<em> Front-End<p>
-<p style="font-size: 24px">🎓<em> Course - Curso em Vídeo | by: Gustavo Guanabara</a>
-</em></p>
+
+
 
 
 #### LEARNING 🖊️📚
@@ -22,5 +21,8 @@
 
 #### Frameworks 📎🛠️
 [<img src="https://iconape.com/wp-content/png_logo_vector/react-2.png" alt="react logo" width="64" />](https://reactjs.org/)
+
+<p style="font-size: 24px">💻🚀<em> Front-End<p>
+<p style="font-size: 24px">📚<em> Course - Curso em Video, By: Gustavo Guanabara.
 
 ![lszinxx github stats](https://github-readme-stats.vercel.app/api?username=lszinxx&hide=contribs,issues&show_icons=true&line_height=21&theme=graywhite)
