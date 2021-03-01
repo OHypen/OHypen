@@ -1,13 +1,4 @@
-
-
-
-
-<a href="https://www.instagram.com/lszinxx/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-</p>
-
-
-
-
+<a href="https://www.com/lszinxx/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 
 #### LEARNING 🖊️📚
 [<img src="https://iconape.com/wp-content/png_logo_vector/react-2.png" alt="react logo" width="64" />](https://reactjs.org/)
