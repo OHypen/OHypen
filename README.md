@@ -2,6 +2,8 @@
 
 #### LEARNING 🖊️📚
 [<img src="https://iconape.com/wp-content/png_logo_vector/react-2.png" alt="react logo" width="64" />](https://reactjs.org/)
+<img src="https://user-images.githubusercontent.com/67880796/109652340-6b1a3300-7b3e-11eb-94a6-6768167ef5a6.png" alt="python logo" width="64" />
+
 
 #### Tools 🛠️
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="drawing" width="64" />](https://code.visualstudio.com/)
