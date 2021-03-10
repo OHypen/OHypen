@@ -18,4 +18,4 @@
 <p style="font-size: 24px">💻🚀<em> Front-End<p>
 <p style="font-size: 24px">📚<em> Course - Curso em Video, By: Gustavo Guanabara.
 
-![lszinxx github stats](https://github-readme-stats.vercel.app/api?username=lszinxx&hide=contribs,issues&show_icons=true&line_height=21&theme=graywhite)
+![lszin-codes github stats](https://github-readme-stats.vercel.app/api?username=lszin-codes&hide=contribs,issues&show_icons=true&line_height=21&theme=graywhite)
