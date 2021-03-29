@@ -9,4 +9,4 @@
 
 <p style="font-size: 24px">💻🚀<p> Front-End</p>
 
-![lszin-codes github stats](https://github-readme-stats.vercel.app/api?username=lszin-codes&hide=contribs,issues&show_icons=true&line_height=21&theme=graywhite)
+![lszin-codes github stats](https://github-readme-stats.vercel.app/api?username=OLuisH&hide=contribs,issues&show_icons=true&line_height=21&theme=graywhite)
