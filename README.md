@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/67880796/109652340-6b1a3300-7b3e-11eb-94a6-6768167ef5a6.png" alt="python logo" width="64" />
 
 
-### Hello, My name is Luis and I'm from Brazil, I'm studying Frontend and Backend development
+### Hello, My name is Luis and I'm from Brazil, I'm studying Frontend development
 
 <p style="font-size: 24px">💻🚀<p> Front-End</p>
 
