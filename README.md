@@ -3,7 +3,6 @@
 ____
 
 ### LEARNING 🖊️📚
-[<img src="https://iconape.com/wp-content/files/xn/371621/svg/371621.svg" alt="VueJS logo" width="64" />](https://vuejs.org/)
 <img src="https://iconape.com/wp-content/files/rj/371212/svg/371212.svg" alt="Javascript logo" width="64" />
 _____
 
