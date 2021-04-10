@@ -1,4 +1,4 @@
-### Hello, My name is Luis and I'm from Brazil, I'm studying Frontend development.
+### Hello, My name is Luis and I'm from Brazil.
 ### "Intelligence is the ability to adapt to change" - Stephen Hawking
 ____
 
