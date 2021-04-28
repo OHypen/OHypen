@@ -5,12 +5,15 @@ Programmer | Security Enthusiast
 
 **Currently learning:**
 
-🐍 Python3.9
-🛠 Javascript
+- 🐍 Python3.9</br>
+- 🛠 Javascript
 
-- **My 🎓**
+**My Courses**
 
-🎓 [**Curso em Video: Algoritmos**] - 40h
-🎓 [**Curso em Video: Python**] - 40h
-🎓 [**Curso em Video: JavaScript**] - 40h
-🎓 [**Curso em Video: Html, Css e JS**] - 40h
+- 🎓 [**Curso em Video: Algoritmos**] - 40h
+</br>
+- 🎓 [**Curso em Video: Python**] - 40h
+</br>
+- 🎓 [**Curso em Video: JavaScript**] - 40h
+</br>
+- 🎓 [**Curso em Video: Html, Css e JS**] - 40h
