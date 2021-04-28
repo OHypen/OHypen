@@ -4,12 +4,12 @@ I'm Luis H
 </br>
 Programmer | Security Enthusiast
 
-**Currently learning:**
+**Currently learning 📚:**
 
 - 🐍 Python3.9</br>
 - 🛠 Javascript
 
-**My Courses 🎓📗**
+**My Courses 🎓:  **
 
  🎓 [**Curso em Video: Algoritmos**] - 40h
 </br>
