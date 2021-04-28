@@ -9,7 +9,7 @@ Programmer | Security Enthusiast
 - 🐍 Python3.9</br>
 - 🛠 Javascript
 
-**My Courses**
+**My Courses 🎓📗**
 
  🎓 [**Curso em Video: Algoritmos**] - 40h
 </br>
