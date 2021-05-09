@@ -8,6 +8,7 @@ Programmer | Security Enthusiast
 
 - 🐍 Python3.9</br>
 - 🛠 Javascript
+- 🖥️ Design
 
 **My Courses 🎓:**
 
