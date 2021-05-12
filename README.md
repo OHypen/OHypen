@@ -20,4 +20,4 @@ Programmer | Security Enthusiast <img src=https://github.com/TheDudeThatCode/The
 </br>
  <img src=https://media4.giphy.com/media/JRPedlnuaD4DXHFfUl/giphy.gif width="35" > *Curso em Video: Html, Css e JS* - 40h
 
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=OHypen&show_icons=true)
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=OHypen&show_icons=true&theme=dracula)
