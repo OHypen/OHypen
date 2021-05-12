@@ -10,14 +10,14 @@ Programmer | Security Enthusiast <img src=https://github.com/TheDudeThatCode/The
 - 🛠 Javascript
 - 🖥️ Design
 
-**My Courses <img src=https://media1.giphy.com/media/HnOwEf7imzIDqnPdrl/giphy.gif width="35" >:**
+**My Courses <img src=https://i.gifer.com/origin/e4/e4cd0639b5a5c1e164aeff4370ed2365.gif width="30" >:**
 
- <img src=https://media4.giphy.com/media/JRPedlnuaD4DXHFfUl/giphy.gif width="35" > *Curso em Video: Algoritmos* - 40h
+ 📖 *Curso em Video: Algoritmos* - 40h
 </br>
- <img src=https://media4.giphy.com/media/JRPedlnuaD4DXHFfUl/giphy.gif width="35" > *Curso em Video: Python* - 40h
+ 📖 *Curso em Video: Python* - 40h
 </br>
- <img src=https://media4.giphy.com/media/JRPedlnuaD4DXHFfUl/giphy.gif width="35" > *Curso em Video: JavaScript* - 40h
+ 📖 *Curso em Video: JavaScript* - 40h
 </br>
- <img src=https://media4.giphy.com/media/JRPedlnuaD4DXHFfUl/giphy.gif width="35" > *Curso em Video: Html, Css e JS* - 40h
+ 📖 *Curso em Video: Html, Css e JS* - 40h
 
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=OHypen&show_icons=true&theme=dracula)
