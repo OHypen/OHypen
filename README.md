@@ -19,3 +19,5 @@ Programmer | Security Enthusiast
  🎓 [**Curso em Video: JavaScript**] - 40h
 </br>
  🎓 [**Curso em Video: Html, Css e JS**] - 40h
+
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=OHypen&show_icons=true)
