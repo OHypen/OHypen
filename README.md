@@ -2,7 +2,7 @@
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="30"> I'm Luis H
 </br>
-Programmer | Security Enthusiast <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif width="30">
+Programmer <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif width="30">
 
 **Currently learning <img src=https://acegif.com/wp-content/gifs/book-75.gif width="30">**
 
