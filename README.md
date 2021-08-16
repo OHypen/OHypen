@@ -6,7 +6,7 @@ Programmer <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
 
 **Currently learning <img src=https://acegif.com/wp-content/gifs/book-75.gif width="30">**
 
--📚 JavaScript</br>
+- 📚 JavaScript</br>
 
 **My Courses <img src=https://i.gifer.com/origin/e4/e4cd0639b5a5c1e164aeff4370ed2365.gif width="30" >:**
 
